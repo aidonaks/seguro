@@ -18,7 +18,7 @@ setTimeout(ldinsp, 0);
 <!-- End Inspectlet Asynchronous Code -->
 
 <!-- FOMO -->
-script.src='https://load.fomo.com/api/v1/f94zblPoHIi23nD8tDGeQQ/load.js';
+src='https://load.fomo.com/api/v1/f94zblPoHIi23nD8tDGeQQ/load.js';
 
 <!-- End FOMO -->
 
@@ -38,12 +38,12 @@ var testimonials=function(){var e=document.querySelector('#testimonials'),t=1e3*
 <!-- End Multistep.js -->
 
 <!-- Reviewsonmywebsite.com -->
-script.src='https://reviewsonmywebsite.com/js/embedLoader.js?id=dbaebe9662c6466e4cbe'
+src='https://reviewsonmywebsite.com/js/embedLoader.js?id=dbaebe9662c6466e4cbe'
 
 <!-- End Reviewsonmywebsite.com -->
 
 <!-- Jquery 1.4.2 + Smooth scrolling-->
-script.src='https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'
+src='https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'
 
 
    <!--Smooth Scrolling script follows-->
